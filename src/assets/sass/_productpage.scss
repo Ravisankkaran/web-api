@@ -1,0 +1,126 @@
+
+#product-page{
+.product-title {
+  width: 100%;
+}
+.product-description {
+  width: 100%;
+}
+.quantity-count {
+  font-size: 22px;
+}
+.add-button {
+  border-radius: 40%;
+  background-color: #f0f0f0;
+  font-size: 20px;
+  border: none;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.but {
+  display: flex;
+}
+.main-button {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.button-container {
+  color: black;
+  padding: 10px 30px;
+  border-radius: 50px;
+  font-size: 16px;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+button {
+  cursor: pointer;
+}
+.cart-but {
+  padding: 15px 50px;
+  background-color: black;
+  color: azure;
+  font-size: 16px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+li {
+  display: inline;
+}
+.rating {
+  width: 10%;
+}
+.cart-btn {
+  padding: 15px 50px;
+  background-color: black;
+  color: azure;
+  font-size: 16px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.side-images {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 100px;
+  padding: 50px;
+  justify-content: space-evenly;
+}
+.size {
+  display: flex;
+  padding: 10px;
+  gap: 20px;
+}
+.size-but {
+  border: none;
+  border-radius: 50px;
+  background-color: darkgray;
+  color: gray;
+  font-size: 16px;
+  padding: 20px 30px;
+}
+.image-container {
+  padding: 50px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  height: auto;
+  width: fit-content;
+  margin: 20px;
+}
+.main-image {
+  width: 300px;
+  height: 300px;
+}
+.block-container{
+  display: flex;
+  justify-content: space-around;
+}
+.product-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+}
+.card {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  margin: 20px;
+  width: 50%;
+}
+}

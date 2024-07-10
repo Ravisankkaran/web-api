@@ -1,0 +1,135 @@
+#hero{
+
+  .hero-section {
+    background-color: #F2F0F1;
+  }
+ 
+  .hero-container {
+    display: flex;
+    /* gap: 100px; */
+  }
+  
+  .hero-img {
+    width: 600px;
+    
+    margin-right: 25px;
+    /* margin-left: 50px; */
+  }
+  .hero-div{
+    display: flex;
+    justify-content: flex-start;
+    /* margin-right: 50px; */
+    padding-right: 100px;
+    height: max-content;
+    margin-top: 30px;
+    
+  }
+ 
+  
+  .count-list{
+    display: inline-block;
+  }
+  
+  li {
+    display: flex;
+    font-style: normal;
+  }
+  .count {
+    font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 50px;
+  }
+  
+  .count-description {
+    font-size: 18px;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+
+  }
+  
+  .content {
+    /* padding: 50px; */
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Rubik+Mono+One&display=swap');
+    .title {
+    font-size: 64px;
+    font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: bold;
+  margin-left: 90px;
+  word-spacing: 0%;
+  letter-spacing: 0px;
+
+  }
+  .stats{
+    margin-left: 50px;
+  }
+  
+  .hero-description {
+    width: 70%;
+    margin-left: 90px;
+    color: gray;
+    font-size: 20px;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+    }
+  
+  .hero-btn {
+    
+    border-radius: 50px;
+    background-color: black;
+    color: white;     
+    border: 1px solid black;
+    padding: 16px 50px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-left: 90px;
+  }
+  
+  .banner {
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  @media (max-width: 768px) {
+    .hero-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .hero-img {
+      width: 100%;
+      margin-left: 0;
+    }
+  
+    .content {
+      padding: 20px;
+    }
+  
+    .title {
+      font-size: 36px;
+      text-align: center;
+    }
+  
+    .hero-description {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .hero-btn {
+      padding: 10px 30px;
+      font-size: 14px;
+    }
+  
+    .banner {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .banner-items {
+      margin: 10px 0;
+    }
+  }
+  
+}

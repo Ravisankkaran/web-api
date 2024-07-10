@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..7001,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Rubik+Mono+One&display=swap');
+@import '@/assets/sass/_main.scss';
+@import '@/assets/sass/_productpage.scss';
+@import '@/assets/sass/_allproducts.scss';
+@import '@/assets/sass/_browserview.scss';
+@import '@/assets/sass/_cartview.scss';
+@import '@/assets/sass/_footer.scss';
+@import '@/assets/sass/_hero.scss';
+@import '@/assets/sass/_newarrivals.scss';
+@import '@/assets/sass/_productlist.scss';
+@import '@/assets/sass/_testimonial.scss';
+@import '@/assets/sass/_topselling.scss';
+@import '@/assets/sass/_category.scss';
+@import '@/assets/sass/_shop.scss';
+@import '@/assets/sass/_shopview.scss';
+
+
+.product-card{
+    cursor: pointer;
+}

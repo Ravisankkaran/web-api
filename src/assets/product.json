@@ -1,0 +1,101 @@
+[
+    {
+      "id": 0,
+      "name": "T-SHIRT WITH TAPE DETAILS",
+      "products":"product-1.png",
+      "pr": "pg-1.png",
+      "pro": "pg-2.png",
+      "prod": "pg-3.png",
+      "rating":"rating.png",
+      "price":"$210",
+        "pricediscount":"$300",    
+        "description": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.    ",
+      
+      "select":"Select Colors",
+        "color1":"color.png"
+    
+    },
+    {
+      "id": 1,
+      "name": "SKINNY FIT JEANS",
+      "rating":"rating.png",
+      "price":"$240",
+      
+        "pricediscount":"$300",    
+        "description": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.    ",
+       
+      "select":"Select Colors",
+        "color1":"color.png",
+      "products":"product-2.png",
+      "pr": "pg-1.png",
+      "pro": "pg-2.png",
+      "prod": "pg-3.png"
+
+    },
+    {
+      "id": 2,
+      "name": "CHECKERED SHIRT",
+      "rating":"rating.png",
+      "price":"$180",
+      
+        "pricediscount":"$300",    
+        "description": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.    ",
+       
+      "select":"Select Colors",
+        "color1":"color.png",
+      "products":"product-3.png",
+      "pr": "pg-1.png",
+        "pro": "pg-2.png",
+        "prod": "pg-3.png"
+
+    },
+    {
+      "id": 3,
+      "name": "SLEEVE STRIPED T-SHIRT",
+      "rating":"rating.png",
+      "price":"$130",
+      
+        "pricediscount":"$300",    
+        "description": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.    ",
+       
+      "select":"Select Colors",
+        "color1":"color.png",
+      "products":"product-4.png",
+      "pr": "pg-1.png",
+        "pro": "pg-2.png",
+        "prod": "pg-3.png"
+    },
+    {
+      "id": 4,
+      "name": "SLEEVE STRIPED T-SHIRT",
+      "rating":"rating.png",
+      "price":"$130",
+      
+        "pricediscount":"$300",    
+        "description": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.    ",
+       
+      "select":"Select Colors",
+        "color1":"color.png",
+      "products":"product-4.png",
+      "pr": "pg-1.png",
+        "pro": "pg-2.png",
+        "prod": "pg-3.png"
+    },
+    {
+      "id": 5,
+      "name": "SLEEVE STRIPED T-SHIRT",
+      "rating":"rating.png",
+      "price":"$130",
+      
+        "pricediscount":"$300",    
+        "description": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.    ",
+       
+      "select":"Select Colors",
+        "color1":"color.png",
+      "products":"product-4.png",
+      "pr": "pg-1.png",
+        "pro": "pg-2.png",
+        "prod": "pg-3.png"
+    }
+
+  ]     

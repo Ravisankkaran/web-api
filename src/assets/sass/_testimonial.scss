@@ -1,0 +1,56 @@
+#testimonial{
+    
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.card-container{
+  padding: 70px;
+  /* width: 50%; */
+}
+* {
+  font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+.container{
+  padding: 20px;
+}
+.verify-user{
+  /* padding-top: 10px; */
+  margin-left: 10px;
+}
+.page-title {
+  text-align: left;
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-size: 64px;
+  font-style: normal;
+  margin-left: 70px;
+}
+.product-card {
+  background-color: white;
+  padding: 20px;
+  max-width: 310px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 0 10px;
+  height: 100%;
+  border: 1px solid silver;
+}
+.product-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.rating-img {
+  width: 100px;
+}
+.product-details {
+  margin-top: 10px;
+  align-items: center;
+}
+.vue-carousel {
+  padding: 0 10px; /* Add padding to ensure space at the edges */
+}
+
+}

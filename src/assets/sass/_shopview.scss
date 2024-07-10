@@ -1,0 +1,28 @@
+#shop-view{
+   
+  .shop-header {
+    padding: 20px;
+    text-align: center;
+    background: #f8f8f8;
+  }
+  
+  .category-menu {
+    margin-top: 10px;
+  }
+  
+  .category-menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .category-menu ul li {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .category-menu ul li:hover {
+    background-color: #e0e0e0;
+  }
+  
+}

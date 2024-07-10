@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "pr": "pg-1.png",
+        "pro": "pg-2.png",
+        "prod": "pg-3.png",
+        "name": "ONE LIFE GRAPHIC T-SHIRT",
+        "rating": "rating.png",
+        "price":"$210",
+        "pricediscount":"$300",    
+        "description": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.    ",
+        "select":"Select Colors",
+        "color1":"color.png"
+        
+    }
+   
+]
